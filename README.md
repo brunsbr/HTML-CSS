@@ -10,4 +10,4 @@ Salve como "nomedoarquivo.html"
 
 Abra o arquivo.
 
-Você deverá ser capaz de visualizar em seu navegador.
+Você deverá ser capaz de visualizar em seu navegador a página criada com os códigos.
